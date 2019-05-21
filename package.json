@@ -25,11 +25,15 @@
                 "id": "velocity",
                 "aliases": [
                     "Velocity",
-                    "vtl"
+                    "vtl",
+                    "appsyncVResp",
+                    "appsyncVReq"
                 ],
                 "extensions": [
                     ".vm",
-                    ".vtl"
+                    ".vtl",
+                    ".response",
+                    ".request"
                 ],
                 "configuration": "./language-configuration.json"
             }
